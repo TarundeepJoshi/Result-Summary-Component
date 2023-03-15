@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "enter",
+            "request": "launch",
+            "url": "enter"
+        }
+    ]
+}
